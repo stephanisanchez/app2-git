@@ -36,7 +36,8 @@
  <acces origin="https://*/*"/>
  <allow-intent href="http://*/*"/>
  <acces origin="http://*/*"/>
- <plugin name="cordova-plugin-whitelist" source="npm"/
+ <plugin name="cordova-plugin-whitelist" source="npm"/>
+ 
 <!-- Colocar icono app -->
 
 <icon src="res/android/mdpi.png" />
