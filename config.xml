@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 
-<widget xmlns="http://www.w3.org/ns/widgets"
- xmlns:gap="http://phonegap.com/ns/1.0"
- id ="com.phonegap.app2"
- version="1.0.0">
+<widget xmlns= "http://www.w3.org/ns/widgets"
+ xmlns:gap= "http://phonegap.com/ns/1.0"
+ id = "com.phonegap.app2"
+ version= "1.0.0">
  
  <name> app2-Especialidad Tecnico en Programacion</name>
  
@@ -31,10 +31,10 @@
  
  <!--<plugin name="cordova-plugin-geolocation"source="npm"/>-->
  <allow-intent href="https://*/*"/>
- <acceso origin="https://*/*"/>
+ <acces origin="https://*/*"/>
  <allow-intent href="http://*/*"/>
- <acceso origin="http://*/*"/>
- <plugin name="cordova-plugin-whitelist"source="npm"/>
+ <acces origin="http://*/*"/>
+ <plugin name="cordova-plugin-whitelist" source="npm"/>
  
  <!--Colocar icono app-->
  <icon src="res/android/mdpi.png"/>
